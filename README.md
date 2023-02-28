@@ -10,3 +10,7 @@ pip install ffmpeg-python
 # Dependencies for windows (ffmpeg binary not included)
 pip install pygobject ffmpeg-python
 ```
+
+# Todo
+- Add way to read files from directory
+- Use multi-threading
